@@ -1,0 +1,4 @@
+Computadora
+play 5
+xbox one
+nintendo switch
